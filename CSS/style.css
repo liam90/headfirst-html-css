@@ -1,0 +1,20 @@
+body{
+    background-color: #d2b48c;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px dotted black;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+.flex-container h1{
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: center;
+}
+.flex-container h3{
+    font-family: 'Merriweather', serif;
+    justify-content: center;
+}
+.flex-container p{
+    font-family: 'Bebas Neue', cursive;
+    justify-content: center;
+}
